@@ -1,0 +1,83 @@
+E:\C# Code Win Form\C# Store Products\Store Products\Store Products\bin\Debug\net7.0-windows\Store Products.exe
+E:\C# Code Win Form\C# Store Products\Store Products\Store Products\bin\Debug\net7.0-windows\Store Products.deps.json
+E:\C# Code Win Form\C# Store Products\Store Products\Store Products\bin\Debug\net7.0-windows\Store Products.runtimeconfig.json
+E:\C# Code Win Form\C# Store Products\Store Products\Store Products\bin\Debug\net7.0-windows\Store Products.dll
+E:\C# Code Win Form\C# Store Products\Store Products\Store Products\bin\Debug\net7.0-windows\Store Products.pdb
+E:\C# Code Win Form\C# Store Products\Store Products\Store Products\obj\Debug\net7.0-windows\Store_Products.Form1.resources
+E:\C# Code Win Form\C# Store Products\Store Products\Store Products\obj\Debug\net7.0-windows\Store_Products.Properties.Resources.resources
+E:\C# Code Win Form\C# Store Products\Store Products\Store Products\obj\Debug\net7.0-windows\Store Products.csproj.GenerateResource.cache
+E:\C# Code Win Form\C# Store Products\Store Products\Store Products\obj\Debug\net7.0-windows\Store Products.GeneratedMSBuildEditorConfig.editorconfig
+E:\C# Code Win Form\C# Store Products\Store Products\Store Products\obj\Debug\net7.0-windows\Store Products.AssemblyInfoInputs.cache
+E:\C# Code Win Form\C# Store Products\Store Products\Store Products\obj\Debug\net7.0-windows\Store Products.AssemblyInfo.cs
+E:\C# Code Win Form\C# Store Products\Store Products\Store Products\obj\Debug\net7.0-windows\Store Products.csproj.CoreCompileInputs.cache
+E:\C# Code Win Form\C# Store Products\Store Products\Store Products\obj\Debug\net7.0-windows\Store Products.dll
+E:\C# Code Win Form\C# Store Products\Store Products\Store Products\obj\Debug\net7.0-windows\refint\Store Products.dll
+E:\C# Code Win Form\C# Store Products\Store Products\Store Products\obj\Debug\net7.0-windows\Store Products.pdb
+E:\C# Code Win Form\C# Store Products\Store Products\Store Products\obj\Debug\net7.0-windows\Store Products.genruntimeconfig.cache
+E:\C# Code Win Form\C# Store Products\Store Products\Store Products\obj\Debug\net7.0-windows\ref\Store Products.dll
+C:\Users\RULE LAB\Downloads\Telegram Desktop\C# Store Products\Store Products\Store Products\bin\Debug\net7.0-windows\Store Products.exe
+C:\Users\RULE LAB\Downloads\Telegram Desktop\C# Store Products\Store Products\Store Products\bin\Debug\net7.0-windows\Store Products.deps.json
+C:\Users\RULE LAB\Downloads\Telegram Desktop\C# Store Products\Store Products\Store Products\bin\Debug\net7.0-windows\Store Products.runtimeconfig.json
+C:\Users\RULE LAB\Downloads\Telegram Desktop\C# Store Products\Store Products\Store Products\bin\Debug\net7.0-windows\Store Products.dll
+C:\Users\RULE LAB\Downloads\Telegram Desktop\C# Store Products\Store Products\Store Products\bin\Debug\net7.0-windows\Store Products.pdb
+C:\Users\RULE LAB\Downloads\Telegram Desktop\C# Store Products\Store Products\Store Products\obj\Debug\net7.0-windows\Store_Products.Form1.resources
+C:\Users\RULE LAB\Downloads\Telegram Desktop\C# Store Products\Store Products\Store Products\obj\Debug\net7.0-windows\Store_Products.Properties.Resources.resources
+C:\Users\RULE LAB\Downloads\Telegram Desktop\C# Store Products\Store Products\Store Products\obj\Debug\net7.0-windows\Store Products.csproj.GenerateResource.cache
+C:\Users\RULE LAB\Downloads\Telegram Desktop\C# Store Products\Store Products\Store Products\obj\Debug\net7.0-windows\Store Products.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RULE LAB\Downloads\Telegram Desktop\C# Store Products\Store Products\Store Products\obj\Debug\net7.0-windows\Store Products.AssemblyInfoInputs.cache
+C:\Users\RULE LAB\Downloads\Telegram Desktop\C# Store Products\Store Products\Store Products\obj\Debug\net7.0-windows\Store Products.AssemblyInfo.cs
+C:\Users\RULE LAB\Downloads\Telegram Desktop\C# Store Products\Store Products\Store Products\obj\Debug\net7.0-windows\Store Products.csproj.CoreCompileInputs.cache
+C:\Users\RULE LAB\Downloads\Telegram Desktop\C# Store Products\Store Products\Store Products\obj\Debug\net7.0-windows\Store Products.dll
+C:\Users\RULE LAB\Downloads\Telegram Desktop\C# Store Products\Store Products\Store Products\obj\Debug\net7.0-windows\refint\Store Products.dll
+C:\Users\RULE LAB\Downloads\Telegram Desktop\C# Store Products\Store Products\Store Products\obj\Debug\net7.0-windows\Store Products.pdb
+C:\Users\RULE LAB\Downloads\Telegram Desktop\C# Store Products\Store Products\Store Products\obj\Debug\net7.0-windows\Store Products.genruntimeconfig.cache
+C:\Users\RULE LAB\Downloads\Telegram Desktop\C# Store Products\Store Products\Store Products\obj\Debug\net7.0-windows\ref\Store Products.dll
+D:\C# P\C# Store Products add\Store Products\Store Products\bin\Debug\net7.0-windows\Store Products.exe
+D:\C# P\C# Store Products add\Store Products\Store Products\bin\Debug\net7.0-windows\Store Products.deps.json
+D:\C# P\C# Store Products add\Store Products\Store Products\bin\Debug\net7.0-windows\Store Products.runtimeconfig.json
+D:\C# P\C# Store Products add\Store Products\Store Products\bin\Debug\net7.0-windows\Store Products.dll
+D:\C# P\C# Store Products add\Store Products\Store Products\bin\Debug\net7.0-windows\Store Products.pdb
+D:\C# P\C# Store Products add\Store Products\Store Products\obj\Debug\net7.0-windows\Store_Products.Form1.resources
+D:\C# P\C# Store Products add\Store Products\Store Products\obj\Debug\net7.0-windows\Store_Products.Properties.Resources.resources
+D:\C# P\C# Store Products add\Store Products\Store Products\obj\Debug\net7.0-windows\Store Products.csproj.GenerateResource.cache
+D:\C# P\C# Store Products add\Store Products\Store Products\obj\Debug\net7.0-windows\Store Products.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# P\C# Store Products add\Store Products\Store Products\obj\Debug\net7.0-windows\Store Products.AssemblyInfoInputs.cache
+D:\C# P\C# Store Products add\Store Products\Store Products\obj\Debug\net7.0-windows\Store Products.AssemblyInfo.cs
+D:\C# P\C# Store Products add\Store Products\Store Products\obj\Debug\net7.0-windows\Store Products.csproj.CoreCompileInputs.cache
+D:\C# P\C# Store Products add\Store Products\Store Products\obj\Debug\net7.0-windows\Store Products.dll
+D:\C# P\C# Store Products add\Store Products\Store Products\obj\Debug\net7.0-windows\refint\Store Products.dll
+D:\C# P\C# Store Products add\Store Products\Store Products\obj\Debug\net7.0-windows\Store Products.pdb
+D:\C# P\C# Store Products add\Store Products\Store Products\obj\Debug\net7.0-windows\Store Products.genruntimeconfig.cache
+D:\C# P\C# Store Products add\Store Products\Store Products\obj\Debug\net7.0-windows\ref\Store Products.dll
+D:\C# P\C# Store Products add\Store Products\Store Products\bin\Debug\net7.0-windows\BCrypt.Net-Next.dll
+D:\C# P\C# Store Products add\Store Products\Store Products\obj\Debug\net7.0-windows\Store Products.csproj.AssemblyReference.cache
+D:\C# P\C# Store Products add\Store Products\Store Products\obj\Debug\net7.0-windows\Store Products.csproj.CopyComplete
+E:\C#\Store Products\Store Products\bin\Debug\net7.0-windows\Store Products.exe
+E:\C#\Store Products\Store Products\bin\Debug\net7.0-windows\Store Products.deps.json
+E:\C#\Store Products\Store Products\bin\Debug\net7.0-windows\Store Products.runtimeconfig.json
+E:\C#\Store Products\Store Products\bin\Debug\net7.0-windows\Store Products.dll
+E:\C#\Store Products\Store Products\bin\Debug\net7.0-windows\Store Products.pdb
+E:\C#\Store Products\Store Products\bin\Debug\net7.0-windows\BCrypt.Net-Next.dll
+E:\C#\Store Products\Store Products\obj\Debug\net7.0-windows\Store Products.csproj.AssemblyReference.cache
+E:\C#\Store Products\Store Products\obj\Debug\net7.0-windows\Store_Products.Form1.resources
+E:\C#\Store Products\Store Products\obj\Debug\net7.0-windows\Store_Products.Properties.Resources.resources
+E:\C#\Store Products\Store Products\obj\Debug\net7.0-windows\Store Products.csproj.GenerateResource.cache
+E:\C#\Store Products\Store Products\obj\Debug\net7.0-windows\Store Products.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Store Products\Store Products\obj\Debug\net7.0-windows\Store Products.AssemblyInfoInputs.cache
+E:\C#\Store Products\Store Products\obj\Debug\net7.0-windows\Store Products.AssemblyInfo.cs
+E:\C#\Store Products\Store Products\obj\Debug\net7.0-windows\Store Products.csproj.CoreCompileInputs.cache
+E:\C#\Store Products\Store Products\obj\Debug\net7.0-windows\Store Products.csproj.CopyComplete
+E:\C#\Store Products\Store Products\obj\Debug\net7.0-windows\Store Products.dll
+E:\C#\Store Products\Store Products\obj\Debug\net7.0-windows\refint\Store Products.dll
+E:\C#\Store Products\Store Products\obj\Debug\net7.0-windows\Store Products.pdb
+E:\C#\Store Products\Store Products\obj\Debug\net7.0-windows\Store Products.genruntimeconfig.cache
+E:\C#\Store Products\Store Products\obj\Debug\net7.0-windows\ref\Store Products.dll
+E:\C#\Store Products\Store Products\bin\Debug\net7.0-windows\System.Configuration.ConfigurationManager.dll
+E:\C#\Store Products\Store Products\bin\Debug\net7.0-windows\System.Data.OleDb.dll
+E:\C#\Store Products\Store Products\bin\Debug\net7.0-windows\System.Diagnostics.EventLog.dll
+E:\C#\Store Products\Store Products\bin\Debug\net7.0-windows\System.Diagnostics.PerformanceCounter.dll
+E:\C#\Store Products\Store Products\bin\Debug\net7.0-windows\System.Security.Cryptography.ProtectedData.dll
+E:\C#\Store Products\Store Products\bin\Debug\net7.0-windows\runtimes\win\lib\net7.0\System.Data.OleDb.dll
+E:\C#\Store Products\Store Products\bin\Debug\net7.0-windows\runtimes\win\lib\net7.0\System.Diagnostics.EventLog.Messages.dll
+E:\C#\Store Products\Store Products\bin\Debug\net7.0-windows\runtimes\win\lib\net7.0\System.Diagnostics.EventLog.dll
+E:\C#\Store Products\Store Products\bin\Debug\net7.0-windows\runtimes\win\lib\net7.0\System.Diagnostics.PerformanceCounter.dll
